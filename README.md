@@ -5,4 +5,4 @@ Playfair cipher\
 Hill cipher\
 RC4\
 SHA\
-DES\
+DES
