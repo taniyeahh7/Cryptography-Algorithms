@@ -1,8 +1,8 @@
 # Cryptography-Algorithms
 
-Vignere cipher
-Playfair cipher
-Hill cipher
-RC4
-SHA
-DES
+Vignere cipher__
+Playfair cipher__
+Hill cipher__
+RC4__
+SHA__
+DES__
